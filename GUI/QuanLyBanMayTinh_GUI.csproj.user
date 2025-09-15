@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\FrmBaoHanh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmChiTietHoaDonBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmChiTietPhieuNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmDanhMucSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmHoaDonBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmNhaCungCap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmPhieuNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\FrmSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\frmTrangChu5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff\frmNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Staff\frmTaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Staff\frmTrangChu6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Welcome\Welcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
