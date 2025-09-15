@@ -1,0 +1,17 @@
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\bin\Release\net8.0\QuanLyBanMayTinh_BLL.deps.json
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\bin\Release\net8.0\QuanLyBanMayTinh_BLL.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\bin\Release\net8.0\QuanLyBanMayTinh_BLL.pdb
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\bin\Release\net8.0\QuanLyBanMayTinh_DAL.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\bin\Release\net8.0\QuanLyBanMayTinh_DTO.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\bin\Release\net8.0\QuanLyBanMayTinh_DAL.pdb
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\bin\Release\net8.0\QuanLyBanMayTinh_DTO.pdb
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBanMayTinh_BLL.csproj.AssemblyReference.cache
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBanMayTinh_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBanMayTinh_BLL.AssemblyInfoInputs.cache
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBanMayTinh_BLL.AssemblyInfo.cs
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBanMayTinh_BLL.csproj.CoreCompileInputs.cache
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBa.3DF7BE54.Up2Date
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBanMayTinh_BLL.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\refint\QuanLyBanMayTinh_BLL.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\QuanLyBanMayTinh_BLL.pdb
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_BLL\obj\Release\net8.0\ref\QuanLyBanMayTinh_BLL.dll
