@@ -1,0 +1,12 @@
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\bin\Release\net8.0\QuanLyBanMayTinh_DTO.deps.json
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\bin\Release\net8.0\QuanLyBanMayTinh_DTO.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\bin\Release\net8.0\QuanLyBanMayTinh_DTO.pdb
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\QuanLyBanMayTinh_DTO.csproj.AssemblyReference.cache
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\QuanLyBanMayTinh_DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\QuanLyBanMayTinh_DTO.AssemblyInfoInputs.cache
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\QuanLyBanMayTinh_DTO.AssemblyInfo.cs
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\QuanLyBanMayTinh_DTO.csproj.CoreCompileInputs.cache
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\QuanLyBanMayTinh_DTO.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\refint\QuanLyBanMayTinh_DTO.dll
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\QuanLyBanMayTinh_DTO.pdb
+D:\Code\c\c#\bài tập\Quan_ly_may_tinh\QuanLyBanMayTinh_DTO\obj\Release\net8.0\ref\QuanLyBanMayTinh_DTO.dll
